@@ -1,0 +1,16 @@
+F10 : Step Over
+F11 : Step Into
+Shift + F5 : 디버깅 모드 종료
+
+IDE (통합개발환경)
+
+F9 : BreakPointo 토글
+
+디버깅해야함
+1. 호크아이
+2. 로그디버깅 (print를 찍는다)
+3. Trace - 변수값을 빨리 볼 수 있다
+
+
+*DAT (Direct Address Table)
+- 값을 인덱스로 쓰는 방법
